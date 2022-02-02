@@ -1,3 +1,3 @@
 # github-upload
 
-This was part of the learnign programme, this is a place holder for my kitty app project
+This was part of the learning tutorial, this is a place holder for my kitty app project
